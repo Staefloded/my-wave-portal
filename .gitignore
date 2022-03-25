@@ -8,3 +8,4 @@ typechain
 cache
 artifacts
 .DS_Store
+.env.development
